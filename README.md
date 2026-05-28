@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=700&height=80&lines=%3E+Ol%C3%A1%2C+eu+sou+Clara+Leal_%3B%3E+Estudante+de+Desenvolvimento+de+Sistemas_%3B%3E+Apaixonada+por+C%23+%26+Blazor_%3B%3E+Sempre+aprendendo%2C+sempre+codando_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=700&height=80&lines=%3E+Ol%C3%A1%2C+eu+sou+Clara_%3B%3E+Estudante+de+Desenvolvimento+de+Sistemas_%3B%3E+Apaixonada+por+C%23_%3B%3E+Sempre+aprendendo%2C+sempre+codando_)](https://git.io/typing-svg)
 
 </div>
 
