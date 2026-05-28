@@ -1,0 +1,12 @@
+<svg width="800" height="160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="160" fill="#000000" rx="6"/>
+  <rect x="1" y="1" width="798" height="158" fill="none" stroke="#39FF14" stroke-width="1.5" rx="6"/>
+  <text x="20" y="28" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14">&gt; PERFIL DO SISTEMA</text>
+  <line x1="20" y1="36" x2="780" y2="36" stroke="#39FF14" stroke-width="0.5" opacity="0.4"/>
+  <text x="36" y="58" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14">USUÁRIO    :  Clara Leal</text>
+  <text x="36" y="78" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14">FUNÇÃO     :  Estudante de Desenvolvimento de Sistemas</text>
+  <text x="36" y="98" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14">NÍVEL      :  2º Ensino Médio Técnico</text>
+  <text x="36" y="118" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14">LINGUAGEM  :  C# (modo obsessão ativado)</text>
+  <line x1="20" y1="130" x2="780" y2="130" stroke="#39FF14" stroke-width="0.5" opacity="0.4"/>
+  <text x="36" y="150" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14">STATUS     :  ONLINE ▓▓▓▓▓▓▓▓▓▓  100%</text>
+</svg>

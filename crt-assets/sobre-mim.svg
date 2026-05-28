@@ -1,0 +1,13 @@
+<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="180" fill="#000000" rx="6"/>
+  <rect x="1" y="1" width="798" height="178" fill="none" stroke="#39FF14" stroke-width="1.5" rx="6"/>
+  <text x="20" y="30" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14">&gt; SOBRE_MIM.exe</text>
+  <line x1="20" y1="38" x2="780" y2="38" stroke="#39FF14" stroke-width="0.5" opacity="0.4"/>
+  <text x="20" y="60" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14">Olá, mundo! Sou estudante de Desenvolvimento de Sistemas no Ensino Médio Técnico —</text>
+  <text x="20" y="78" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14">ainda no começo da jornada, mas com o compilador sempre ligado. Encontrei no C# minha</text>
+  <text x="20" y="96" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14">linguagem favorita e, desde então, não parei mais de explorar o que ela pode fazer.</text>
+  <text x="20" y="114" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14">Com Blazor, transformo lógica em interface.</text>
+  <line x1="20" y1="126" x2="780" y2="126" stroke="#39FF14" stroke-width="0.5" opacity="0.4"/>
+  <text x="20" y="148" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14" opacity="0.7">Estado atual: aprendendo, errando, debugando, repetindo.</text>
+  <text x="20" y="166" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="11" fill="#39FF14" opacity="0.5">■ processo em execução...</text>
+</svg>

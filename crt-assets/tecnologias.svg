@@ -1,0 +1,19 @@
+<svg width="800" height="110" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="110" fill="#000000" rx="6"/>
+  <rect x="1" y="1" width="798" height="108" fill="none" stroke="#39FF14" stroke-width="1.5" rx="6"/>
+  <text x="20" y="30" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14">&gt; TECNOLOGIAS.dll</text>
+  <line x1="20" y1="38" x2="780" y2="38" stroke="#39FF14" stroke-width="0.5" opacity="0.4"/>
+  <!-- C# badge -->
+  <rect x="20" y="52" width="80" height="28" fill="#000" stroke="#39FF14" stroke-width="1" rx="4"/>
+  <text x="60" y="71" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14" text-anchor="middle">C#</text>
+  <!-- Blazor badge -->
+  <rect x="112" y="52" width="90" height="28" fill="#000" stroke="#39FF14" stroke-width="1" rx="4"/>
+  <text x="157" y="71" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14" text-anchor="middle">BLAZOR</text>
+  <!-- HTML5 badge -->
+  <rect x="214" y="52" width="90" height="28" fill="#000" stroke="#39FF14" stroke-width="1" rx="4"/>
+  <text x="259" y="71" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14" text-anchor="middle">HTML5</text>
+  <!-- CSS3 badge -->
+  <rect x="316" y="52" width="80" height="28" fill="#000" stroke="#39FF14" stroke-width="1" rx="4"/>
+  <text x="356" y="71" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14" text-anchor="middle">CSS3</text>
+  <text x="20" y="100" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="10" fill="#39FF14" opacity="0.4">4 módulos carregados com sucesso_</text>
+</svg>

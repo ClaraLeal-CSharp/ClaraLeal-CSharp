@@ -1,0 +1,16 @@
+<svg width="800" height="190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="190" fill="#000000" rx="6"/>
+  <rect x="1" y="1" width="798" height="188" fill="none" stroke="#39FF14" stroke-width="1.5" rx="6"/>
+  <text x="20" y="30" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14">&gt; PROJETOS_EM_DESTAQUE.exe</text>
+  <line x1="20" y1="38" x2="780" y2="38" stroke="#39FF14" stroke-width="0.5" opacity="0.4"/>
+  <!-- Project card inner border -->
+  <rect x="20" y="48" width="760" height="122" fill="#000" stroke="#39FF14" stroke-width="0.8" rx="4" opacity="0.8"/>
+  <text x="36" y="68" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="13" fill="#39FF14" font-weight="bold">[01] SNAKE CLAUDE</text>
+  <line x1="36" y1="74" x2="764" y2="74" stroke="#39FF14" stroke-width="0.4" opacity="0.3"/>
+  <text x="36" y="94" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14">&gt; Uma reimaginação do clássico jogo da cobrinha — mas desta vez, cada partida tem propósito.</text>
+  <text x="36" y="112" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14">&gt; Colete moedas para desbloquear vantagens e tornar sua jogatina cada vez mais poderosa.</text>
+  <line x1="36" y1="122" x2="764" y2="122" stroke="#39FF14" stroke-width="0.4" opacity="0.3"/>
+  <text x="36" y="140" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14" opacity="0.8">STACK : Blazor · C# · HTML · CSS</text>
+  <text x="36" y="158" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="12" fill="#39FF14" opacity="0.8">LINK  : github.com/ClaraLeal-CSharp/snake-claude</text>
+  <text x="20" y="182" font-family="'Share Tech Mono', 'Courier New', monospace" font-size="10" fill="#39FF14" opacity="0.4">1 projeto encontrado_</text>
+</svg>
